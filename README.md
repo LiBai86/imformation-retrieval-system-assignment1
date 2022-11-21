@@ -1,1 +1,1 @@
-# imformation-retrieval-system-assignment1
+# information-retrieval-system-assignment1
