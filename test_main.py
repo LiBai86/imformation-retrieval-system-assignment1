@@ -4,7 +4,7 @@ import directory
 import logTextFile
 
 if __name__ == '__main__':
-    print('hello')
+    print('Hello,World!')
 
 
 def test_demo():
